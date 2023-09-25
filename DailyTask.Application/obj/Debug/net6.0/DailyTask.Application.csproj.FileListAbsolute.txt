@@ -1,0 +1,15 @@
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\bin\Debug\net6.0\DailyTask.Application.deps.json
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\bin\Debug\net6.0\DailyTask.Application.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\bin\Debug\net6.0\DailyTask.Application.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\bin\Debug\net6.0\DailyTask.Domain.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\bin\Debug\net6.0\DailyTask.Domain.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.csproj.AssemblyReference.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.AssemblyInfoInputs.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.AssemblyInfo.cs
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.csproj.CoreCompileInputs.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.csproj.CopyComplete
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\refint\DailyTask.Application.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\DailyTask.Application.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Application\obj\Debug\net6.0\ref\DailyTask.Application.dll

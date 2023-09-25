@@ -1,0 +1,17 @@
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Persistence.deps.json
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Persistence.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Persistence.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Domain.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Domain.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.csproj.AssemblyReference.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.AssemblyInfoInputs.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.AssemblyInfo.cs
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.csproj.CopyComplete
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\refint\DailyTask.Persistence.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.pdb
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\ref\DailyTask.Persistence.dll
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\bin\Debug\net6.0\DailyTask.Persistence.runtimeconfig.json
+C:\Users\Everson\Desktop\Projetos\APIDailyTask-main\DailyTask.Persistence\obj\Debug\net6.0\DailyTask.Persistence.genruntimeconfig.cache
